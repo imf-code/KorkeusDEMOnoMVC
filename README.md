@@ -1,2 +1,2 @@
 # KorkeusDEMOnoMVC
-Versio Korkeus DEMO:sta, joka vaatii vain selaimen.
+Versio KorkeusDEMO:sta, joka vaatii vain selaimen.
